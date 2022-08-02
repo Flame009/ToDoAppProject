@@ -19,9 +19,6 @@
     "eject": "react-scripts eject"
   },
  
-  "engines": {
-    "node": "18.4.0",
-},
   "browserslist": {
     "production": [
       ">0.2%",
